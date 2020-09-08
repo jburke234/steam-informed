@@ -90,7 +90,7 @@ def getGameStatsSchema(game_id, steam_api_key):
 # =============================================================================
 def main():
     
-    steam_api_key = '6F6738CD10A64AF1D05D2E5181F24BC6'
+    steam_api_key = 'XXXXXXXXXXXXXXXXX'
     
     file_path = Path(r"C:\Users\yea-b\Desktop\Steam Web App\GetGameSchema\game_ids.txt")
     
