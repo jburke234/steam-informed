@@ -144,7 +144,7 @@ def main():
     
     today = date.today()
     
-    steam_api_key = '6F6738CD10A64AF1D05D2E5181F24BC6'
+    steam_api_key = 'XXXXXXXX'
     
     file_path = Path(r"C:\Users\yea-b\Desktop\Steam Web App\Scraping\steam_ids.txt")
     list_of_steamtime_ids = read_file(file_path) 
